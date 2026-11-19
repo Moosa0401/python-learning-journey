@@ -27,7 +27,7 @@ def MatchCompare(score):
             print("A")
         case 80:
             print("B")
-        case _:         # default
+        case _:             # default
             print("what?")
         
         
